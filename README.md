@@ -35,7 +35,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.tit4nium.com"><img src="https://img.shields.io/badge/-tit4nium.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/matheusrodriguesoliveira"><img src="https://img.shields.io/badge/-Matheus Oliveira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="matheus.rodriguesoliveira@hotmail.com"><img src="https://img.shields.io/badge/-matheus.rodriguesoliveira@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
